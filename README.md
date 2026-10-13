@@ -187,4 +187,4 @@ The cleaned datasets were then prepared for MySQL analysis.
 The main analytical table is:
 
 ```text
-blinkit_orders
+blinkit
